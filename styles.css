@@ -1,0 +1,17 @@
+h1 {
+  font-family: 'Rubik Mono One', sans-serif;
+  text-align: center;
+}
+body {
+  background: #FFFCEE
+}
+img {
+  width: 250px;
+  height: 200px;
+  margin: 10px;
+}
+.Puppies {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
